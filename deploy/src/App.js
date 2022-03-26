@@ -7,9 +7,9 @@ import './styles.css'
 function App() {
   return (
     
-    <div className="logon-container">
+    <div className="container">
 
-      <section className="form">
+      <section className="text">
 
        
           <h1>O que faz um desenvolvedor web ??</h1>

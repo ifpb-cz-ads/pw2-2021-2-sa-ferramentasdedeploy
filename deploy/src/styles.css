@@ -1,4 +1,4 @@
-.logon-container{
+.container{
     width: 100%;
     max-width: 1120px;
     height: 100vh;
@@ -8,7 +8,7 @@
     align-items: center;
     justify-content: center;
 }
-.logon-container section{
+.container section{
     width: 100%;
     max-width: 350px;
     margin-right: 30px;
@@ -17,20 +17,20 @@
 
 
 
-.logon-container section.form  h1{
+.container section.text  h1{
     font-size: 30px;
     margin-bottom: 32px;
     color: #db868e;
     
 }
 
-.logon-container section.form  p{
+.container section.text  p{
     font-size: 16px;
     margin-bottom: 8px;
     text-align:justify;
    
 }
-.logon-container .imagem{
+.container .imagem{
     width: 60%;
     height: 60%;
 }
